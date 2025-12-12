@@ -1,5 +1,5 @@
 # Hola, mi nombre es Rodrigo 👋
-### Estudiante de Desarrollo en Software 💻
+### 🌱 Actualmente desarrollando una API de Reservas Deportivas con Node.js y Arquitectura Limpia.
 
 
 
